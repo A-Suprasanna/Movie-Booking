@@ -1,0 +1,44 @@
+.header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.about{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    background-color:#F4F4F4;
+    padding: 10px;
+}
+.movies{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.movie-box-model-example{
+    margin: auto;
+    border:1px solid rgb(9, 9, 9);
+    padding: 10px;
+    background-color:#F4F4F4;
+    width: 230px;
+    border-radius: 10px;
+    height: 420px;
+    margin-bottom: 20px;
+}
+.box{
+    margin-top: -20px;
+    padding-bottom: 30px;
+}
+.phone{
+    margin-top: -10px;
+}
+.email{
+    margin-top: -10px;
+}
+    
+
+
